@@ -2957,8 +2957,10 @@
 			- ((67eb2809-b660-4ea2-a851-59736878123a))
 			- [Cataclysm: Dark Days Ahead docs | DDA Docs](https://docs.cataclysmdda.org/)
 	- ((67402ab0-7d01-49bd-b39c-676fea601131))
-		- [My Homemade Foodperson Halloween Costume! I had no idea where to post it until now 😅 : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/v3c87t/my_homemade_foodperson_halloween_costume_i_had_no/)
-			- “原来如此！”（指通过自己爱玩的游戏才懂cosplay的一大乐趣来源，即“发现同好cos的意外惊喜”）
+		- Foodperson
+		  id:: 69572144-d1bd-4f05-9d24-a4a6d919efae
+			- [My Homemade Foodperson Halloween Costume! I had no idea where to post it until now 😅 : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/v3c87t/my_homemade_foodperson_halloween_costume_i_had_no/)
+				- “原来如此！”（指通过自己爱玩的游戏才懂cosplay的一大乐趣来源，即“发现同好cos的意外惊喜”）
 	- ---
 	- “游戏社交这一块”
 		- 同世界/人物、不同玩家玩（线上可以视频，还可以直播同时玩，甚至可以开实时模式“强化学习”——“替代性联机策略”）
