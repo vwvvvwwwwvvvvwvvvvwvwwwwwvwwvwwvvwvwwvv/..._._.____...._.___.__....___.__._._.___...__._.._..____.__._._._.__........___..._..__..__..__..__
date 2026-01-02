@@ -73,7 +73,6 @@
 			- ((6944e702-2ebe-4111-b733-23d0df69feb9))
 			- 均衡提交次数
 			- [[保密]]
-			- [[人身安全]]
 	- 细分工作类型
 	  collapsed:: true
 		- 新增资料等
@@ -167,10 +166,6 @@
 		  kSQA38CVD/H2WR7xk6zkvk21XguTEGfdNVI=
 		  =cqPs
 		  -----END PGP PUBLIC KEY BLOCK-----
-	- 可公开内容
-	  collapsed:: true
-		- https://xoyondo.com/mb/90qp7agut21dwf7
-		  id:: 6922631e-3599-43e8-b674-09f0129aa2ba
 	- 我的邮箱
 	  id:: 6944e6e3-b3ce-43b7-ae4a-f8f66f4ffdc3
 	  collapsed:: true
@@ -211,6 +206,10 @@
 					- 他们一回来非要搞这搞那，我的生活一有反差就得给他们上规矩，说他们不一定避着客
 					- 没礼貌来指指点点我家风水（“吃饭的地方正对灶头不好”~~——“那咋了，我造反！”~~）、我的个人状况啥的我不管老小都赶出去的——“你们有什么资格XX？！”
 					  id:: 693f6501-0ada-4025-92b9-ac1a8b72db1a
+	- 可公开内容
+	  collapsed:: true
+		- https://xoyondo.com/mb/90qp7agut21dwf7
+		  id:: 6922631e-3599-43e8-b674-09f0129aa2ba
 	- ---
 	- ((6952765c-3dcb-494f-b7a6-3a940fab7ac0))
 	- 名称可以用 ((695462f2-5c0f-4b2e-bf00-9c2952a2801b)) 等
